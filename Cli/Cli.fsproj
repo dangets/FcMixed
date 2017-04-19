@@ -41,6 +41,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CsLib\CsLib.csproj">
       <Name>CsLib.csproj</Name>
+      <Project>{b147154b-4982-4f25-acfa-2317434138f4}</Project>
     </ProjectReference>
     <ProjectReference Include="..\FsLib\FsLib.fsproj">
       <Name>FsLib.fsproj</Name>
